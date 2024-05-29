@@ -1,0 +1,10 @@
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\bin\Debug\RouletteGame.exe.config
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\bin\Debug\RouletteGame.exe
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\bin\Debug\RouletteGame.pdb
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.csproj.AssemblyReference.cache
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.Form1.resources
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.Properties.Resources.resources
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.csproj.GenerateResource.cache
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.csproj.CoreCompileInputs.cache
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.exe
+C:\Users\Alisa\source\repos\RouletteGame\RouletteGame\obj\Debug\RouletteGame.pdb
