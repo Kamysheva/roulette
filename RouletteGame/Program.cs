@@ -25,12 +25,14 @@ namespace RouletteGame
             public string Name { get; set; }
             public int[] Numbers { get; set; }
             public int Payout { get; set; }
+            //public int[] Location { get; set; }
 
-            public Group(string name, int[] numbers, int payout)
+            public Group(string name, int[] numbers, int payout) //int[] location
             {
                 Name = name;
                 Numbers = numbers;
                 Payout = payout;
+                //Location = location;
             }
         }
         public class Bet
